@@ -1,0 +1,15 @@
+F:\Projetos\Sistema-de-estacionamento\bin\Debug\net7.0\Sistema-de-estacionamento.exe
+F:\Projetos\Sistema-de-estacionamento\bin\Debug\net7.0\Sistema-de-estacionamento.deps.json
+F:\Projetos\Sistema-de-estacionamento\bin\Debug\net7.0\Sistema-de-estacionamento.runtimeconfig.json
+F:\Projetos\Sistema-de-estacionamento\bin\Debug\net7.0\Sistema-de-estacionamento.dll
+F:\Projetos\Sistema-de-estacionamento\bin\Debug\net7.0\Sistema-de-estacionamento.pdb
+F:\Projetos\Sistema-de-estacionamento\obj\Debug\net7.0\Sistema-de-estacionamento.csproj.AssemblyReference.cache
+F:\Projetos\Sistema-de-estacionamento\obj\Debug\net7.0\Sistema-de-estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\Sistema-de-estacionamento\obj\Debug\net7.0\Sistema-de-estacionamento.AssemblyInfoInputs.cache
+F:\Projetos\Sistema-de-estacionamento\obj\Debug\net7.0\Sistema-de-estacionamento.AssemblyInfo.cs
+F:\Projetos\Sistema-de-estacionamento\obj\Debug\net7.0\Sistema-de-estacionamento.csproj.CoreCompileInputs.cache
+F:\Projetos\Sistema-de-estacionamento\obj\Debug\net7.0\Sistema-de-estacionamento.dll
+F:\Projetos\Sistema-de-estacionamento\obj\Debug\net7.0\refint\Sistema-de-estacionamento.dll
+F:\Projetos\Sistema-de-estacionamento\obj\Debug\net7.0\Sistema-de-estacionamento.pdb
+F:\Projetos\Sistema-de-estacionamento\obj\Debug\net7.0\Sistema-de-estacionamento.genruntimeconfig.cache
+F:\Projetos\Sistema-de-estacionamento\obj\Debug\net7.0\ref\Sistema-de-estacionamento.dll
